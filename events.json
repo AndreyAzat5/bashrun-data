@@ -5,7 +5,7 @@
     "date": "12.05.2025",
     "place": "г. Уфа",
     "description": "Крупнейший марафон Башкортостана",
-    "image": "ufa_marathon",
+    "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/main/images/ufa_marathon.jpg"
     "distances": ["5 км", "10 км", "21 км", "42 км"]
   },
   {
