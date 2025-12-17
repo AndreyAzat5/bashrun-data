@@ -11,7 +11,31 @@
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon3.jpg",
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon4.jpg"
     ],
-    "distances": ["5 км", "10 км", "21 км", "42 км"]
+    "distances": ["5 км", "10 км", "21 км", "42 км"],
+    "distance5": {
+      "description": "5 км — короткая дистанция для начинающих.",
+      "price": "от 2100 ₽",
+      "schedule": "• до 30.04 — 2500 ₽\n• до 01.06 — 2700 ₽\n• до 01.08 — 2900 ₽",
+      "maxParticipants": 3000
+    },
+    "distance10": {
+      "description": "10 км — стандартная дистанция для любителей.",
+      "price": "от 2300 ₽",
+      "schedule": "• до 30.04 — 2800 ₽\n• до 01.06 — 3100 ₽\n• до 01.08 — 3300 ₽",
+      "maxParticipants": 3000
+    },
+    "distance21": {
+      "description": "21 км — полумарафон для опытных бегунов.",
+      "price": "от 2600 ₽",
+      "schedule": "• до 30.04 — 3100 ₽\n• до 01.06 — 3300 ₽\n• до 01.08 — 3600 ₽",
+      "maxParticipants": 1500
+    },
+    "distance42": {
+      "description": "42 км — марафон для профессионалов.",
+      "price": "от 3100 ₽",
+      "schedule": "• до 30.04 — 3400 ₽\n• до 01.06 — 3900 ₽\n• до 01.08 — 4000 ₽",
+      "maxParticipants": 500
+    }
   },
   {
     "id": 2,
@@ -25,6 +49,19 @@
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf3.jpg",
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf4.jpg"
     ],
-    "distances": ["5 км", "10 км"]
+    "distances": ["5 км", "10 км"],
+    "distance5": {
+      "description": "5 км — короткая дистанция для всех желающих.",
+      "price": "от 2000 ₽",
+      "schedule": "• до 30.04 — 2200 ₽\n• до 01.06 — 2400 ₽\n• до 01.08 — 2600 ₽",
+      "maxParticipants": 1500
+    },
+    "distance10": {
+      "description": "10 км — полумарафон для любителей более длинных дистанций.",
+      "price": "от 2200 ₽",
+      "schedule": "• до 30.04 — 2400 ₽\n• до 01.06 — 2700 ₽\n• до 01.08 — 2900 ₽",
+      "maxParticipants": 2000
+    }
   }
 ]
+
