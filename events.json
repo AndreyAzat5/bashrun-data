@@ -6,6 +6,7 @@
     "place": "г. Уфа",
     "description": "Крупнейший марафон Башкортостана",
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon.jpg",
+    "RecUrl": "https://reg.russiarunning.com/event/ufa2025",
     "gallery": [
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon2.jpg",
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon3.jpg",
@@ -44,6 +45,7 @@
     "place": "г. Стерлитамак",
     "description": "Всероссийский полумарафон",
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf.jpg",
+    "RecUrl": "https://reg.russiarunning.com/event/ufa2025",
     "gallery": [
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf2.jpg",
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf3.jpg",
