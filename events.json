@@ -70,11 +70,11 @@
     "date": "7.09.2025",
     "place": "Республика Башкортостан, Уфа",
     "description": "шоссе",
-    "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf3.jpg",
     "RecUrl": "http://ufamarathon.ru/",
     "gallery": [
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf2.jpg",
-      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf3.jpg",
+      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf.jpg",
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf4.jpg"
     ],
     "distances": []
