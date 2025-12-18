@@ -51,5 +51,18 @@
     ],
    "distances": ["5 км", "10 км"]
   }
+  {
+    "id": 3,
+    "title": "Malidak Ultra Race",
+    "date": "8.08.2025",
+    "place": "Республика Башкортостан, Белорецк",
+    "description": "горный бег",
+    "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/MalidakUltraRace.jpg",
+    "RecUrl": "https://itra.run/Races/RaceDetails/Malidak.race.Ultra.Hard/2025/98626",
+    "gallery": [
+      
+    ],
+   "distances": []
+  }
 ]
 
