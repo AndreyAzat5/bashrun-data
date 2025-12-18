@@ -47,9 +47,7 @@
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/MMK%20Wild%20Trail.jpg",
     "RecUrl": "https://itra.run/Races/RaceResults/MMK.Wild.Trail.TRAIL.12/2025/98542",
     "gallery": [
-      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf2.jpg",
-      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf3.jpg",
-      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf4.jpg"
+      
     ],
    "distances": ["5 км", "10 км"]
   }
