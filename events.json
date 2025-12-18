@@ -78,6 +78,19 @@
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf4.jpg"
     ],
     "distances": []
+  },
+  {
+    "id": 5,
+    "title": "Забег по пересеченной местности «Trail Run»",
+    "date": "20.09.2025",
+    "place": "Республика Башкортостан, Чишминский район, с.Алкино-2",
+    "description": "Тип забега: кросс или трейл",
+    "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/TrailRun.jpg",
+    "RecUrl": "https://heroleague.ru/trail/trail2025_479561_2009",
+    "gallery": [
+
+    ],
+    "distances": []
   }
 ]
 
