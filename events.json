@@ -60,9 +60,24 @@
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/MalidakUltraRace.jpg",
     "RecUrl": "https://itra.run/Races/RaceDetails/Malidak.race.Ultra.Hard/2025/98626",
     "gallery": [
-      
+
     ],
-   "distances": []
+    "distances": []
+  },
+  {
+    "id": 4,
+    "title": "XI Уфимский международный марафон",
+    "date": "7.09.2025",
+    "place": "Республика Башкортостан, Уфа",
+    "description": "шоссе",
+    "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf.jpg",
+    "RecUrl": "http://ufamarathon.ru/",
+    "gallery": [
+      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf2.jpg",
+      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf3.jpg",
+      "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf4.jpg"
+    ],
+    "distances": []
   }
 ]
 
