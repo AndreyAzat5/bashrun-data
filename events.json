@@ -4,7 +4,7 @@
     "title": "Уфимский марафон",
     "date": "12.05.2025",
     "place": "г. Уфа",
-    "description": "Крупнейший марафон Башкортостана",
+    "description": "Тип забега: шоссе",
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon.jpg",
     "RecUrl": "https://reg.russiarunning.com/event/ufa2025",
     "gallery": [
@@ -12,7 +12,7 @@
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon3.jpg",
       "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/marafon4.jpg"
     ],
-    "distances": ["5 км", "10 км", "21 км", "42 км"],
+    "distances": [ "5 км", "10 км", "21 км", "42 км" ],
     "distance5": {
       "description": "5 км",
       "price": "от 2100 ₽",
@@ -43,20 +43,20 @@
     "title": "MMK Wild Trail",
     "date": "1.08.2025",
     "place": "Республика Башкортостан, Белорецкий район, с. Абзаково",
-    "description": "кросс или трейл",
+    "description": "Тип забега: кросс или трейл",
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/MMK%20Wild%20Trail.jpg",
     "RecUrl": "https://itra.run/Races/RaceResults/MMK.Wild.Trail.TRAIL.12/2025/98542",
     "gallery": [
-      
+
     ],
-   "distances": ["5 км", "10 км"]
+    "distances": [ "5 км", "10 км" ]
   },
   {
     "id": 3,
     "title": "Malidak Ultra Race",
     "date": "8.08.2025",
     "place": "Республика Башкортостан, Белорецк",
-    "description": "горный бег",
+    "description": "Тип забега: горный бег",
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/MalidakUltraRace.jpg",
     "RecUrl": "https://itra.run/Races/RaceDetails/Malidak.race.Ultra.Hard/2025/98626",
     "gallery": [
@@ -69,7 +69,7 @@
     "title": "XI Уфимский международный марафон",
     "date": "7.09.2025",
     "place": "Республика Башкортостан, Уфа",
-    "description": "шоссе",
+    "description": "Тип забега: шоссе",
     "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/zabeg_rf3.jpg",
     "RecUrl": "http://ufamarathon.ru/",
     "gallery": [
