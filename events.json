@@ -91,6 +91,19 @@
 
     ],
     "distances": []
+  },
+  {
+    "id": 6,
+    "title": "5 вёрст Сибай №14",
+    "date": "20.12.2025",
+    "place": "Республика Башкортостан, Сибай",
+    "description": "Тип забега: шоссе",
+    "imageUrl": "https://raw.githubusercontent.com/AndreyAzat5/bashrun-data/refs/heads/main/images/Sibai.jpg",
+    "RecUrl": "https://5verst.ru/terrazauralye/",
+    "gallery": [
+
+    ],
+    "distances": []
   }
 ]
 
